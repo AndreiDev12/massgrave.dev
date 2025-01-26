@@ -6,7 +6,7 @@ sidebar_label: Intro
 
 # Microsoft Activation Scripts (MAS)
 
-Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+'Open Source' Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ---
 
@@ -57,7 +57,7 @@ or
 
 :::note
 
-- The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
+- The IRM command in PowerShell downloads a script from a **Specified URL**, and the IEX command executes it.
 - Always double-check the URL before executing the command and verify the source if manually downloading files.
 - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
 
@@ -73,15 +73,15 @@ Last Release - v2.9 (20-Dec-2024)
 ------------------------------------------------------------------------
 
 ## Features
-
+Activating Windows with these features takes responsibility as it needs **Professional Competence** to be guided throughly
 -   **HWID (Digital License)** Method to Permanently Activate Windows
 -   **Ohook** Method to Permanently Activate Office
 -   **KMS38** Method to Activate Windows/Server Till the Year 2038
 -   **Online KMS** Method to Activate Windows/Server/Office For 180 Days (Lifetime With Renewal Task)
 -   Advanced Activation Troubleshooting
 -   $OEM$ Folders For Preactivation
--   Change Windows Edition
--   Change Office Edition
+-   Change **Windows Edition**
+-   Change **Office Edition**
 -   Check Windows/Office Activation Status
 -   Available in All In One and Separate Files Versions
 -   Fully Open Source and Based on Batch Scripts
@@ -94,7 +94,7 @@ Last Release - v2.9 (20-Dec-2024)
 | Activation Type | Supported Product    | Activation Period                    | Is Internet Needed? |
 |:----------------|:---------------------|:-------------------------------------|:--------------------|
 | HWID            | Windows 10-11        | Permanent                            | Yes                 |
-| Ohook           | Office               | Permanent                            | No                  |
+| Ohook           | Office               | Permaneggent                         | No                  |
 | KMS38           | Windows 10-11-Server | Till the Year 2038                   | No                  |
 | Online KMS      | Windows / Office     | 180 Days. Lifetime With Renewal Task | Yes                 |
 
